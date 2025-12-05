@@ -27,26 +27,26 @@
     },
       "MODE": {
         "description": "Bot mode can be public, private, inbox or groups in small letters (e.g, public)",
-        "value":"private",
+        "value":"public",
         "required": true  
         
    },
      "DESCRIPTION": {
       "description": "add caption for menu and other",
-      "value": "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ xᴅ*",
+      "value": "> *fonked and changed to royal*",
       "required": true
       
    }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "value": "263714757857"
+      "value": "27799648540"
       "required": true
       
    },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "",
+      "value": "Mudau thendo",
       "required": true
     }
 
